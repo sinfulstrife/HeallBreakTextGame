@@ -1,2 +1,2 @@
 # HellBreak Text Game
-A tet game based in Python!
+A text game based in Python!

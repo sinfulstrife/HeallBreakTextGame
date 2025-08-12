@@ -1,4 +1,3 @@
-# Miniece Ragin
 
 from typing import Dict, List
 
@@ -185,3 +184,4 @@ def main() -> None:
 # Run the game when executed directly
 if __name__ == "__main__":
     main()
+
